@@ -1,6 +1,9 @@
+![localhost_3000_](https://github.com/Animeshnin/nft/assets/74292216/212cb658-0315-421a-a5b4-ac6bcfa12aec)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
 
 ## Available Scripts
 
